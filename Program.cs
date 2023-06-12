@@ -8,6 +8,7 @@ namespace ConsoleApp19
 {
     class Program
     {
+        //homework
         //number8
         //static double Density(double mass, double volume)
         //{
